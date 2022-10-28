@@ -1,5 +1,5 @@
 usuarios:
-  properties: Usuarios Profile Dev Update
+  property: Usuarios Profile Dev Update
 spring:
   datasource:
     url: jdbc:mysql://localhost:3307/db_examenes
