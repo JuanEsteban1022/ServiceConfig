@@ -1,5 +1,5 @@
 usuarios:
-  properties: Usuarios Profile Dev
+  properties: Usuarios Profile Dev Update
 spring:
   jpa:
     hibernate:
